@@ -1,12 +1,6 @@
 '''
 Skill Development Lab Project:
 PORT SCANNER (GUI)
-
-Created By: 
-Joel Eldoe
-
-About:
-This is a python(tkinter) application which performs port scans on IPv4 addresses and generates a log file to store the information received.
 '''
 
 import socket, time
